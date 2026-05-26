@@ -72,7 +72,7 @@ The project follows a structured end-to-end analytics workflow:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/vintage-couture-analytics.git
+git clone https://github.com/ayomide-williams/vintage-couture-analytics.git
 cd vintage-couture-analytics
 
 # Install dependencies
