@@ -1,6 +1,6 @@
 # 👗 Vintage Couture — End-to-End Sales Data Analytics
 
-A complete data analytics project for **Vintage Couture**, a fashion retail brand specializing in curated vintage clothing. This notebook walks through the full analytics lifecycle — from raw data ingestion and cleaning to exploratory analysis, visualization, and business recommendations.
+A complete data analytics project for **Vintage Couture**, a fashion retail brand specializing in curated vintage clothing. This notebook walks through the full analytics lifecycle  from raw data ingestion and cleaning to exploratory analysis, visualization, and business recommendations.
 
 ---
 
@@ -35,16 +35,16 @@ All four sheets are merged on their respective keys (`Payment ID`, `Location Id`
 
 The project follows a structured end-to-end analytics workflow:
 
-1. **Problem Statement / Objectives** — Define the business questions
-2. **Data Collection** — Load multi-sheet Excel data into pandas
-3. **Data Investigation** — Inspect shape, types, and distributions
-4. **Data Cleaning & Transformation** — Handle missing values, drop duplicates, engineer features (Age Group, Sales, Month Name)
-5. **Exploratory Data Analysis (EDA)** — Univariate, bivariate, and multivariate analysis
-6. **Data Storytelling** — Annotated visualizations with business narrative
-7. **Recommendations** — Actionable strategies based on findings
-8. **Executive Summary** — High-level insights for stakeholders
-9. **Limitations** — Caveats and scope boundaries
-10. **Report / Communication** — Structured outputs for decision-making
+1. **Problem Statement / Objectives**  Define the business questions
+2. **Data Collection**  Load multi-sheet Excel data into pandas
+3. **Data Investigation**  Inspect shape, types, and distributions
+4. **Data Cleaning & Transformation**  Handle missing values, drop duplicates, engineer features (Age Group, Sales, Month Name)
+5. **Exploratory Data Analysis (EDA)**  Univariate, bivariate, and multivariate analysis
+6. **Data Storytelling** = Annotated visualizations with business narrative
+7. **Recommendations** = Actionable strategies based on findings
+8. **Executive Summary** = High-level insights for stakeholders
+9. **Limitations** = Caveats and scope boundaries
+10. **Report / Communication** = Structured outputs for decision-making
 
 ---
 
@@ -60,11 +60,11 @@ The project follows a structured end-to-end analytics workflow:
 ## 🛠️ Tech Stack
 
 - **Python 3**
-- `pandas` — data loading, merging, transformation
-- `numpy` — numerical operations
-- `matplotlib` — base plotting
-- `seaborn` — statistical visualizations
-- `openpyxl` — Excel file reading
+- `pandas` = data loading, merging, transformation
+- `numpy` = numerical operations
+- `matplotlib` = base plotting
+- `seaborn` = statistical visualizations
+- `openpyxl` = Excel file reading
 
 ---
 
@@ -94,4 +94,4 @@ The notebook exports a merged, cleaned dataset to `vintage_clothing_merged.xlsx`
 
 ## 🙋 Author
 
-Built as a portfolio project demonstrating end-to-end data analytics skills — from raw data wrangling to business storytelling.
+Built as a portfolio project demonstrating end-to-end data analytics skills  from raw data wrangling to business storytelling.
